@@ -8,5 +8,6 @@ int *p1;
 int y = *p;
 
 printf("%i,%i\n",*p,y);
+printf("what's up baby?");
 return 0;
 }
