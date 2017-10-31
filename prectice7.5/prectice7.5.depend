@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1481077999 source:d:\cbworkspace\prectice7.5\main.c
+	<stdio.h>
+	<stdlib.h>
+
